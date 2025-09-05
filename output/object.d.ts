@@ -1,0 +1,1 @@
+var num1:number=12;
